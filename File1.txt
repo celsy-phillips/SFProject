@@ -12,3 +12,7 @@ huehuehue
 5change : for WI6 on local master to test normal push
 
 6change : this is by teammate on remote master for bug3
+
+7change : for WI6 on local master to test normal push
+
+8change : on local master for WI7
